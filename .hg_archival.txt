@@ -1,0 +1,4 @@
+repo: 4eff17414a4378feaba42876e0d3a6a50646cdee
+node: ea69e97a812bda9ff212bdd86cf8f0fdd353d6d4
+branch: stable-1.0
+tag: release-1.0.14
